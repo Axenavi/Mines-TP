@@ -1,0 +1,76 @@
+---
+name: MinesTP
+version: 1.0.0
+api:
+- 3.0.0
+- 4.0.0
+author: Axen
+main: ShmexyPink\MineManager\MineManager
+load: STARTUP
+
+permissions:
+  mine.b:
+    default: op
+  mine.c:
+    default: op
+  mine.d:
+    default: op
+  mine.e:
+    default: op
+  mine.f:
+    default: op
+  mine.g:
+    default: op
+  mine.h:
+    default: op
+  mine.i:
+    default: op
+  mine.j:
+    default: op
+  mine.k:
+    default: op
+  mine.l:
+    default: op
+  mine.m:
+    default: op
+  mine.n:
+    default: op
+  mine.o:
+    default: op
+  mine.p:
+    default: op
+  mine.q:
+    default: op
+  mine.r:
+    default: op
+  mine.s:
+    default: op
+  mine.t:
+    default: op
+  mine.u:
+    default: op
+  mine.v:
+    default: op
+  mine.w:
+    default: op
+  mine.x:
+    default: op
+  mine.y:
+    default: op
+  mine.z:
+    default: op
+  mine.frozen:
+    default: op
+  mine.storm:
+    default: op
+  mine.seaoverlord:
+    default: op
+  mine.nebula:
+    default: op
+  mine.firelord:
+    default: op
+  mine.heavenlydemonic:
+    default: op
+  mine.kingpin:
+    default: op
+---
